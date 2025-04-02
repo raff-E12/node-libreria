@@ -11,3 +11,9 @@
    - **POST** `http://127.0.0.1:3000/books` → crea un libro (Store).  
    - **PUT** `http://127.0.0.1:3000/books/:id` → modifica un libro (Update).  
    - **DELETE** `http://127.0.0.1:3000/books/:id` → elimina un libro (Destroy).
+
+## Come avviare:
+Scarica il progetto, da github e avvia npm con:
+```bash
+  npm run dev
+```
