@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Il nome della rosa",
+    "author": "Umberto Eco",
+    "year": 1980,
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "available": false
+  },
+  {
+    "id": 3,
+    "title": "La coscienza di Zeno",
+    "author": "Italo Svevo",
+    "year": 1923,
+    "available": true
+  },
+  {
+    "id": 4,
+    "title": "Il Gattopardo",
+    "author": "Giuseppe Tomasi di Lampedusa",
+    "year": 1958,
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "Il grande Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "available": true
+  },
+  {
+    "id": 6,
+    "title": "Orgoglio e pregiudizio",
+    "author": "Jane Austen",
+    "year": 1813,
+    "available": false
+  },
+  {
+    "id": 7,
+    "title": "L'amica geniale",
+    "author": "Elena Ferrante",
+    "year": 2011,
+    "available": true
+  },
+    {
+      "id": 8,
+      "title": "Il Signore degli Anelli",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "available": true
+    },
+    {
+      "id": 9,
+      "title": "La trilogia della città di K.",
+      "author": "Ágota Kristof",
+      "year": 1987,
+      "available": false
+    },
+    {
+      "id": 10,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "year": 1851,
+      "available": true
+    }
+  ]
